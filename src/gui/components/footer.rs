@@ -53,7 +53,7 @@ pub fn footer<'a>(
                 .push(
                     rich_text![
                         "Made with ❤ by ",
-                        span("Giuliano Bellini")
+                        span("ENG_MO")
                             .underline(true)
                             .link(Message::OpenWebPage(WebPage::MyGitHub)),
                     ]
